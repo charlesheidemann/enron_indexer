@@ -1,4 +1,4 @@
-# Enron Data Import Porjet #
+# Enron Data Import Project #
 
 ## Technologies used in the project
 
